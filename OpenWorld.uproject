@@ -1,6 +1,7 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.26",
+	"EngineAssociation": "{02A4A749-4BB3-A56C-9E56-E99A44E85EB7}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": []
 }
